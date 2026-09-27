@@ -20,7 +20,7 @@
 * **Flutter**
 * **Dart**
 * **Figma** – UI/UX Design
-* **Sql / Database** *(if applicable)*
+* **Sql / Database** 
 
 ## 📌 Project Overview
 
